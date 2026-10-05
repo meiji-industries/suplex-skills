@@ -1,6 +1,6 @@
 # Suplex skills
 
-Agent skills for [Suplex](https://suplex.sh).
+Agent skills for [Suplex](https://getsuplex.ai).
 
 ## Install
 
